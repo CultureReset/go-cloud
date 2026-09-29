@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Google's Go Cloud Development Kit, kept for reference. It is not installed on a Ghost box.
+
 # The Go Cloud Development Kit (Go CDK)
 
 _Write once, run on any cloud ☁️_
