@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/go-cloud](https://github.com/google/go-cloud).** The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/go-cloud).
+>
+> The upstream README follows unchanged.
+
+---
+
 # The Go Cloud Development Kit (Go CDK)
 
 _Write once, run on any cloud ☁️_
